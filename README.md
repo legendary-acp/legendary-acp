@@ -1,7 +1,7 @@
 👋 Hi, I’m Pradyuman\
-👀 Interested in Observability\
-🌱 Learning Golang & OpenTelemetry\
-💞️ Open to collaborating on cool open-source projects\
+👀 Observability & Big Data Enthusiast\
+🌱 Rustacean in training\
+🤝 Always seeking new open-source adventures\
 🐼 Harnessing the power of Chi\
 \
 <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=legendary-acp&theme=radical&show_icons=true&hide_border=true&count_private=true" />
