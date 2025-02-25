@@ -3,15 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendary-acp&label=Profile%20views&color=0e75b6&style=flat" alt="legendary-acp" /> </p>
 
-👀 Observability & Big Data Enthusiast\
+👀 Observability & Cyber Security Enthusiast\
 🌱 Rustacean in training\
 🤝 Always seeking new open-source adventures\
-🐼 Harnessing the power of Chi\
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+🐼 Harnessing the power of Chi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
