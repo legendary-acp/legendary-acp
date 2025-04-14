@@ -82,9 +82,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=legendary-acp&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=legendary-acp&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legendary-acp" alt="GitHub Streak" height="200" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legendary-acp" alt="GitHub Streak" />
-</p>
