@@ -1,89 +1,143 @@
-<h1 align="center">Hi 👋, I'm Pradyuman</h1>
-<h3 align="center">Backend Developer with DevOps DNA</h3>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                        @legendary-acp                          -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+```
+ ┌─────────────────────────────────────────────────────────────┐
+ │                                                             │
+ │   $ whoami                                                  │
+ │   > Pradyuman — Backend Engineer · Infra Nerd · Go Dev      │
+ │                                                             │
+ │   $ cat /etc/motd                                           │
+ │   > Building systems that observe themselves.               │
+ │                                                             │
+ └─────────────────────────────────────────────────────────────┘
+```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=legendary-acp&label=Profile%20views&color=0e75b6&style=flat" alt="legendary-acp" />
-</p>
-
-👀 Observability & Cyber Security Enthusiast  
-🌱 Rustacean in training  
-🤝 Always seeking new open-source adventures  
-🐼 Harnessing the power of Chi
-
----
-
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/ppradyu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@legendary-acp" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/798px-Medium_%28website%29_logo.svg.png" alt="Medium" height="20" width="120" />
-  </a>
+  <a href="https://linkedin.com/in/ppradyu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://medium.com/@legendary-acp"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
+  <a href="https://legendary-acp.github.io"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
-<h3>Languages and Tools:</h3>
+### `> what I do`
 
-<!-- Cloud Platforms -->
-<h4>☁️ Cloud Platforms</h4>
-<p>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
-</p>
+I build **backend infrastructure** and **observability platforms** — the kind of systems that process terabytes of telemetry data daily and don't flinch. I care about performance, reliability, and clean abstractions.
 
-<!-- Programming Languages -->
-<h4>💻 Programming Languages</h4>
-<p>
-  <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Rust.svg" alt="Rust" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
-</p>
+Currently deep in the world of **log pipelines**, **distributed query engines**, and **Kubernetes orchestration** across multi-cloud environments.
 
-<!-- DevOps & Infrastructure -->
-<h4>⚙️ DevOps & Infrastructure</h4>
-<p>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-</p>
+When I'm not shipping infra, I'm contributing to open source, reading systems papers, or training to be a better Rustacean.
 
-<!-- Databases -->
-<h4>🛢️ Databases</h4>
-<p>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
-</p>
+---
 
-<!-- Observability & Monitoring -->
-<h4>📊 Observability & Monitoring</h4>
-<p>
-  <a href="https://opentelemetry.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" alt="OpenTelemetry" width="40" height="40"/></a>
-  <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a>
-  <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="40" height="40"/></a>
-  <a href="https://www.elastic.co/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/></a>
-</p>
+### `> tech --stack`
 
-<!-- Frameworks & Frontend -->
-<h4>🧩 Frameworks & Frontend</h4>
-<p>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Flask.svg" alt="Flask" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-</p>
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Infrastructure**
+
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+<td valign="top" width="33%">
+
+**Observability**
+
+![OpenTelemetry](https://img.shields.io/badge/OTel-000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=flat-square&logo=fluentbit&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**Cloud**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Also familiar**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> cat interests.log`
+
+```
+[INFO]  observability    — building systems that make distributed systems debuggable
+[INFO]  open-source      — contributed security fix to etcd; always looking for more
+[INFO]  systems-papers   — reading about consensus, storage engines, query optimization
+[INFO]  rust             — slowly rewriting the world, one crate at a time
+[INFO]  cyber-security   — because knowing how things break makes you build better
+```
+
+---
+
+### `> blog --latest`
+
+I write about backend engineering, infrastructure war stories, and debugging rabbit holes on **[Debugging Diaries](https://medium.com/@legendary-acp)** — my Medium blog.
+
+### `> open portfolio`
+
+Check out my work, projects, and more at **[legendary-acp.github.io](https://legendary-acp.github.io/)** — my personal portfolio.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=legendary-acp&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legendary-acp" alt="GitHub Streak" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=legendary-acp&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legendary-acp&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=legendary-acp&label=visitors&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+<p align="center"><sub>🐼 Harnessing the power of Chi</sub></p>
