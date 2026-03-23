@@ -110,7 +110,7 @@ When I'm not shipping infra, I'm contributing to open source, reading systems pa
 
 ```
 [INFO]  observability    — building systems that make distributed systems debuggable
-[INFO]  open-source      — contributed security fix to etcd; always looking for more
+[INFO]  open-source      — always looking for the next contribution opportunity
 [INFO]  systems-papers   — reading about consensus, storage engines, query optimization
 [INFO]  rust             — slowly rewriting the world, one crate at a time
 [INFO]  cyber-security   — because knowing how things break makes you build better
